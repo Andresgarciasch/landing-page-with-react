@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="futer mt-6 d-flex py-3 text-center">
     <div className="d-flex justify-content-center">
       <div className="one mr-2 d-flex flex-column">
-        <h6>Copyright @ Your Website 2021</h6>
+        <h3>Copyright © Your Website 2021</h3>
       </div>
 
     </div>
